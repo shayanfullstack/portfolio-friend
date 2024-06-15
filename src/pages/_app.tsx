@@ -76,8 +76,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <Header />
         <Component {...pageProps} />
         <Analytics />
-        <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
-        <script src={botkey} defer></script>
+       
       </ThemeProvider>
       </MantineProvider>
     </>
