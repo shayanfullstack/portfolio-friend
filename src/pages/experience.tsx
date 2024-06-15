@@ -162,9 +162,9 @@ export default function Experience() {
           </Tabs>
         </TabsContainer>
         <Work />
-        <Testimonials />
-        <Education />
-        <Certificates />
+    
+     
+     
       </Section>
      
       <Footer />

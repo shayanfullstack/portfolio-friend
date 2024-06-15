@@ -11,14 +11,6 @@ import { GraduationCap } from 'phosphor-react'
 
 export function Certificates() {
   return (
-    <S.ContainerEducation>
-      <Title>
-        Highlights
-        <span>
-          <GraduationCap /> Certification
-        </span>
-      </Title>
-   
-    </S.ContainerEducation>
+  <></>
   );
 }
