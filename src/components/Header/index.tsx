@@ -107,7 +107,7 @@ export function Header() {
 
         <Icons>
           <Link
-            href={'https://github.com/Saravanakumar2003'}
+            href={'https://github.com/TtRr19'}
             target="_blank"
             aria-label="Github">
 
@@ -115,7 +115,7 @@ export function Header() {
 
           </Link>
           <Link
-            href={'https://www.linkedin.com/in/saravanaramaswamy2003/'}
+            href={'https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFgIkRigBJs4gAAAZAbsXDgHTE96IIaqcdhZ7VEXRr8fryXYZLLWV1-xDWpsQsXoRPzqVBwVRQUbwZODjzZev9SioBx_UNyi2taEb1JAfXmFk8ZqsuPn6vFNZkY2LlLIsD0P04=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fturin-j-1067372bb%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app'}
             target="_blank"
             aria-label="Linkedin">
 
