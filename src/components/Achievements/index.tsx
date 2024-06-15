@@ -39,7 +39,7 @@ export function Achievements() {
                       View the Certificate
                       </Link>
                   </h3>
-                  <span>Prize: {achievements.prize}</span>
+              
                 </div>
                 <div className="image">
                   <Carousel showArrows={true} showThumbs={false} infiniteLoop={true} showStatus={true} showIndicators={true} autoPlay={true} transitionTime={1000}>
